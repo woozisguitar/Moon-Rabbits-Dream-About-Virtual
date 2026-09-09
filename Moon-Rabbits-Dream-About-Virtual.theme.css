@@ -18,7 +18,7 @@
 /*---------------------------------------------------------------
                     Radial Status by Gibbu
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/radialstatus.css');
+/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/radialstatus.css');
 
 /*---------------------------------------------------------------
                         Custom Settings
@@ -35,7 +35,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "･ ﾟ✿✼ 𓈒    ໒꒰ྀི ´ ꒳ ` ྀི꒱১";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -74,7 +74,7 @@
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--textarea-background);
-    --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
+    --mentioned-color: 200, 76%, 60%; /* HSL Values Only */
 
     /* Other options */
     --border-width: 3px;
