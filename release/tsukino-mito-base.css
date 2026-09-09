@@ -476,8 +476,8 @@
 
 /* Server List */
 #app-mount .wrapper_ef3116 {
-    left: unset;
-    right: 0;
+    left: 0;
+    right: unset;
 }
 #app-mount .wrapper_ef3116 .wrapper__58105 {
     left: 60px;
@@ -527,7 +527,7 @@
     font-weight: 600;
     position: relative;
     margin-right: 4px;
-    left: 0;
+    left: unset;
     transition: all 200ms;
 }
 .header_f37cb1:hover .guildBadgeAndName_f37cb1::before {
